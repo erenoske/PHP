@@ -1,3 +1,4 @@
+<?php
 /*
 *
 * Veritabanı bağlantısı için
