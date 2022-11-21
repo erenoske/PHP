@@ -1,3 +1,4 @@
+<?php
 /*
 * Static PDO MySQL DB Class
 * 
